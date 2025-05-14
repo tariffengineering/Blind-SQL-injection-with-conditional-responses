@@ -24,6 +24,11 @@ This script automates the two main phases of the attack:
 * Outputs the `administrator`'s username and the extracted password.
 * Includes comments in the code for better understanding.
 
+![image](/images/1.png)
+![image](/images/2.png)
+![image](/images/3.png)
+
+
 ## Prerequisites
 
 * Python 3.x
