@@ -1,4 +1,4 @@
-# Exploit Script for "Lab: Blind SQL injection with conditional responses"
+# PortSwigger Lab Exploit Script: "Lab: Blind SQL injection with conditional responses"
 
 This Python script automates the process of exploiting a blind SQL injection vulnerability in PortSwigger's Web Security Academy lab: **[Lab: Blind SQL injection with conditional responses](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses)**.
 
